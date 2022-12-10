@@ -3,7 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Models\Category;
-use Product;
+use App\Models\Product;
 use App\Models\Slide;
 use Illuminate\Http\Request;
 use phpDocumentor\Reflection\Types\Null_;

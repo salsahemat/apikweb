@@ -3,7 +3,7 @@
 namespace App\Http\Controllers\Admin;
 
 use App\Models\Tag;
-use Product;
+use App\Models\Product;
 use App\Models\Category;
 use App\Services\ImageService;
 use App\Http\Controllers\Controller;
